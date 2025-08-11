@@ -76,7 +76,8 @@ Predictions on test set using the fine-tuned model:
 ## Usage:
 To run the ipynb locally:
 - Clone the repository using git clone.
-- Install the dependencies
-  `!pip install -q pandas numpy seaborn matplotlib scikit-learn xgboost`
+- Install the dependencies <br>
+  ```python
+  !pip install -q pandas numpy seaborn matplotlib scikit-learn xgboost
 - Download the dataset from Kaggle and place it in the same directory as ipynb.
 - Run the code cells using Jupyter or any other compatible tool.
